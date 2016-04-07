@@ -6,5 +6,5 @@ dando como argumento el numero de kilometros.
 
 Ejemplo:
 
-compare_taxis.py 7
+compare_taxi.py 7
 
