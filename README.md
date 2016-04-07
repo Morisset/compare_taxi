@@ -5,6 +5,8 @@ Se guarda el programa compare_taxi.py en un directorio, se debe cambiar los perm
 
 Ejemplo:
 
-compare_taxi.py 7
+compare_taxi.py 10
+
+EL resultado es:
 
 ![alt tag](figure_1.png)
