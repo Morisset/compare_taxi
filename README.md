@@ -7,3 +7,4 @@ Ejemplo:
 
 compare_taxi.py 7
 
+![alt tag](figure_1.png)
